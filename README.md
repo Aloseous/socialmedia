@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logoColor=white&logo=prisma&color=gray" alt="green" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=clerk&color=blue" alt="Clerk" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=zod&color=orange" alt="zod" />
+    <img src="https://img.shields.io/badge/-clerk-black?style=for-the-badge&logoColor=white&logo=clerk&color=blue" alt="Clerk" />
+    <img src="https://img.shields.io/badge/-ZOD-black?style=for-the-badge&logoColor=white&logo=zod&color=orange" alt="zod" />
   </div>
 
   <h3 align="center">Social Media app next.js </h3>
